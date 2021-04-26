@@ -18,12 +18,12 @@ On the homepage of the app, the user will see a "Book Search" and once the user 
 To use this app, the following packages must be installed: Node, Axios, Bootstrap, Express, Mongoose, MongoDB, React, React-bootstrap, React-dom, React-scripts, and Heroku to deploy.
 
 ## Contributor
-The contributor on this app is myself, Briana Brucato.
+The contributor on this app is Steven Moseni
 
 ## Screenshots
 [Gif of Deployed App](./screenshots/google-books-search.gif)
 
 ## URLs
-[Heroku URL](https://cryptic-anchorage-12673.herokuapp.com/)
+[Heroku URL](https://damp-depths-00113.herokuapp.com/)
 
-[GitHub Repository](https://github.com/bebrucato/google_books)
+[GitHub Repository](https://github.com/StevenMoseni/google-books-app)
